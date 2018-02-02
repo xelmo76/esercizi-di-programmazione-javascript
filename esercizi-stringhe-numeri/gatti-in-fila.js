@@ -31,7 +31,7 @@ Pseudo Codice:
 Gatti = 10
 Gatti x fila (GF) = 10
 Numero di file = (Gatti/ GF) va arrotondato
-Gatti Mancanti = (NOG*GF)-Gatti
+Gatti Mancanti (GM) = (GM*GF)-Gatti
 Stampare il risutato
 */
 
