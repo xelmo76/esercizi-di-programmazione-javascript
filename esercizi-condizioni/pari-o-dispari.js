@@ -19,7 +19,7 @@ mi restituira 1.
 
 var input = 213721983729734;
 
-if(input = input % 2)
-console.log(input +': il numero in input è dispari');
-else
+if(input % 2 == 0)
 console.log(input +': il numero in input è pari');
+else
+console.log(input +': il numero in input è dispari');
